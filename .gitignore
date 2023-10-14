@@ -3,9 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# IDE's
-.idea/
-.vscode
+# Jupyter Notebook
+.ipynb_checkpoints
 
 # C extensions
 *.so
@@ -131,6 +130,3 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-
-# Local venv folder
-py310/
